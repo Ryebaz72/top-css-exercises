@@ -1,0 +1,18 @@
+.odd-class {
+    font-family: Verdana, "DejaVuSans", sans-serif;
+    background-color: #eb86a4;
+}
+
+#second-element {
+    color: #1c33e6;
+    font-size: 36px;
+}
+
+.third-element {
+    font-size: 24px;
+}
+#fourth-element {
+    background-color: #7fff7d;
+    font-size: 24px;
+    font-weight: bold;
+}
